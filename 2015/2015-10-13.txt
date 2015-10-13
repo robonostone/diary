@@ -1,0 +1,13 @@
+
+[Idea]
+I want to make the tool which helps me to generate too many MS Word filess.
+
+Use case
+(1) I create the Word `template` file.
+    The template files contains special tokens ... like "#_01_".
+(2) I create the csv file.
+(3) I push the button in the tool.
+(4) The tool generates a Word file from the word template.
+(5) The tool replaces the special tokens in the template. (by using csv file).
+(6) repeat 4 to 5
+(7) Finally, I will get the word files. 
